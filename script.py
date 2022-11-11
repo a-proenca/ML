@@ -158,3 +158,4 @@ number_contacts_beforethiscampaign_idades = dados.groupby(pd.cut(dados.age,faixa
 plt.ylabel('Numero médio de contactos antes desta campanha para um cliente')
 plt.title('Distribuição do numero médio de contactos antes desta campanha para um cliente')
 plt.show()
+#%%
